@@ -1,13 +1,13 @@
 
 <!-- ================================================= -->
-<!--                 THE DATA FORGE                    -->
-<!--              NIKIL KUMAR PORTFOLIO                -->
-<!--           DARK NAVY + CYAN + PURPLE               -->
+<!--              THE DATA FORGE                       -->
+<!--                NIKIL KUMAR                         -->
+<!--       PREMIUM DARK NAVY PORTFOLIO                  -->
 <!-- ================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0F172A,65:312E81,100:0891B2&height=250&section=header&text=THE%20DATA%20FORGE&fontSize=55&fontColor=22D3EE&fontAlignY=38&animation=fadeIn&desc=TRANSFORMING%20DATA%20INTO%20INTELLIGENCE&descSize=17&descColor=FFFFFF&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0F172A,65:312E81,100:0891B2&height=260&section=header&text=THE%20DATA%20FORGE&fontSize=55&fontColor=22D3EE&fontAlignY=38&animation=fadeIn&desc=TRANSFORMING%20DATA%20INTO%20INTELLIGENCE&descSize=17&descColor=FFFFFF&descAlignY=60"/>
 
 <br/>
 
@@ -31,19 +31,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=75&section=header&text=ABOUT%20ME&fontSize=27&fontColor=22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=80&section=header&text=ABOUT%20ME&fontSize=30&fontColor=22D3EE"/>
 
-# 👋 HELLO, I'M NIKIL KUMAR
+<br/>
+
+# 👋 NIKIL KUMAR
 
 ### Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Python+Developer;Machine+Learning+Explorer;Building+Intelligent+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=DATA+SCIENCE+ENTHUSIAST;PYTHON+DEVELOPER;MACHINE+LEARNING+EXPLORER;BUILDING+INTELLIGENT+APPLICATIONS"/>
 
-**Turning Data Into Intelligence**
+**Passionate about transforming data into meaningful insights and building intelligent applications.**
 
 </div>
 
-### 💫 Who Am I?
+### ✨ WHO AM I?
 
 - 🎓 Computer Science Engineering Student.
 - 📊 Exploring Data Science and Data Analytics.
@@ -54,11 +56,13 @@
 - 🚀 Building practical real-world projects.
 - 🎯 Focused on continuous learning and improvement.
 
+<br/>
+
 <div align="center">
 
-| 🔵 MY FOCUS | 🟣 MY INTEREST | 🟢 MY GOAL |
-|:---:|:---:|:---:|
-| Data Science | AI & ML | Building Projects |
+<img src="https://img.shields.io/badge/MY%20FOCUS-DATA%20SCIENCE-101B35?style=for-the-badge&labelColor=020817"/>
+<img src="https://img.shields.io/badge/MY%20INTEREST-AI%20%26%20ML-101B35?style=for-the-badge&labelColor=020817"/>
+<img src="https://img.shields.io/badge/MY%20GOAL-BUILD%20PROJECTS-101B35?style=for-the-badge&labelColor=020817"/>
 
 </div>
 
@@ -68,7 +72,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=75&section=header&text=TECHNOLOGY%20STACK&fontSize=27&fontColor=22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=80&section=header&text=TECHNOLOGY%20STACK&fontSize=28&fontColor=22D3EE"/>
+
+<br/><br/>
 
 ### 💻 PROGRAMMING LANGUAGES
 
@@ -104,11 +110,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=75&section=header&text=FEATURED%20PROJECT&fontSize=27&fontColor=22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=80&section=header&text=FEATURED%20PROJECT&fontSize=28&fontColor=22D3EE"/>
+
+<br/>
 
 # 🌫️ AIR QUALITY ANALYTICS
 
-### AQI Analysis & Prediction Using Machine Learning
+### AQI ANALYSIS & PREDICTION USING MACHINE LEARNING
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -117,11 +125,11 @@
 
 </div>
 
-### Project Overview
+### 📌 PROJECT OVERVIEW
 
-An end-to-end Data Analytics and Machine Learning project designed to analyze air pollution patterns and predict the Air Quality Index (AQI).
+An end-to-end Data Analytics and Machine Learning project focused on analyzing air pollution patterns and predicting the Air Quality Index (AQI).
 
-### Key Features
+### ⚡ KEY FEATURES
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning and Preprocessing
@@ -132,7 +140,7 @@ An end-to-end Data Analytics and Machine Learning project designed to analyze ai
 - Random Forest Regression
 - AQI Prediction Dashboard
 
-### Model Performance
+### 📈 MODEL PERFORMANCE
 
 | Model | MAE | RMSE | R² |
 |:---|---:|---:|---:|
@@ -153,7 +161,7 @@ An end-to-end Data Analytics and Machine Learning project designed to analyze ai
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=75&section=header&text=GITHUB%20ANALYTICS&fontSize=27&fontColor=22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=80&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=22D3EE"/>
 
 <br/><br/>
 
@@ -173,11 +181,11 @@ An end-to-end Data Analytics and Machine Learning project designed to analyze ai
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=75&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=27&fontColor=22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=80&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=27&fontColor=22D3EE"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhannikil494-star&bg_color=020817&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhannikil494-star&custom_title=NIKIL%20KUMAR%27S%20CONTRIBUTION%20GRAPH&bg_color=020817&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -187,7 +195,7 @@ An end-to-end Data Analytics and Machine Learning project designed to analyze ai
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=75&section=header&text=CONNECT%20WITH%20ME&fontSize=27&fontColor=22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:101B35,100:312E81&height=80&section=header&text=CONNECT%20WITH%20ME&fontSize=28&fontColor=22D3EE"/>
 
 <br/><br/>
 
@@ -202,14 +210,20 @@ An end-to-end Data Analytics and Machine Learning project designed to analyze ai
 
 <br/><br/>
 
-### ⚡ LEARN • BUILD • INNOVATE
-
-**TRANSFORMING DATA INTO INTELLIGENCE**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,45:101B35,100:312E81&height=110&section=footer&text=TURNING%20DATA%20INTO%20INTELLIGENCE&fontSize=22&fontColor=22D3EE"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:101B35,100:020817&height=190&section=footer&text=THANKS%20FOR%20VISITING&fontSize=24&fontColor=22D3EE&fontAlignY=65"/>
+# ⚡ NIKIL KUMAR
+
+### LEARN • CREATE • INNOVATE
+
+<sub>THANKS FOR VISITING MY PROFILE ✨</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:101B35,100:020817&height=150&section=footer"/>
 
 </div>
 
-<!-- ============== END OF THE DATA FORGE ============== -->
+<!-- =============== END OF THE DATA FORGE =============== -->
