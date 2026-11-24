@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=chauhannikil494-star&label=PROFILE+VISITORS&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=TheDataForgeX&label=PROFILE+VISITORS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
@@ -149,7 +149,7 @@ An end-to-end Data Analytics and Machine Learning project focused on analyzing a
 
 <div align="center">
 
-<a href="https://github.com/chauhannikil494-star/air-quality-analytics">
+<a href="https://github.com/TheDataForgeX/air-quality-analytics">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-020817?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
@@ -165,13 +165,13 @@ An end-to-end Data Analytics and Machine Learning project focused on analyzing a
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chauhannikil494-star&show_icons=true&theme=tokyonight&bg_color=020817&title_color=22D3EE&icon_color=C084FC&text_color=CBD5E1&border_color=164E63&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheDataForgeX&show_icons=true&theme=tokyonight&bg_color=020817&title_color=22D3EE&icon_color=C084FC&text_color=CBD5E1&border_color=164E63&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannikil494-star&layout=compact&theme=tokyonight&bg_color=020817&title_color=22D3EE&text_color=CBD5E1&border_color=164E63" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataForgeX&layout=compact&theme=tokyonight&bg_color=020817&title_color=22D3EE&text_color=CBD5E1&border_color=164E63" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=chauhannikil494-star&theme=tokyonight&background=020817&ring=22D3EE&fire=C084FC&currStreakLabel=22D3EE&sideLabels=CBD5E1&border=164E63" width="85%"/>
+<img src="https://streak-stats.demolab.com?user=TheDataForgeX&theme=tokyonight&background=020817&ring=22D3EE&fire=C084FC&currStreakLabel=22D3EE&sideLabels=CBD5E1&border=164E63" width="85%"/>
 
 </div>
 
@@ -185,7 +185,7 @@ An end-to-end Data Analytics and Machine Learning project focused on analyzing a
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhannikil494-star&custom_title=NIKIL%20KUMAR%27S%20CONTRIBUTION%20GRAPH&bg_color=020817&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDataForgeX&custom_title=NIKIL%20KUMAR%27S%20CONTRIBUTION%20GRAPH&bg_color=020817&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -199,7 +199,7 @@ An end-to-end Data Analytics and Machine Learning project focused on analyzing a
 
 <br/><br/>
 
-<a href="https://github.com/chauhannikil494-star">
+<a href="https://github.com/TheDataForgeX">
 <img src="https://img.shields.io/badge/GITHUB-020817?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
