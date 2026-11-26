@@ -226,4 +226,11 @@ An end-to-end Data Analytics and Machine Learning project focused on analyzing a
 
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDataForgeX/TheDataForgeX/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 <!-- =============== END OF THE DATA FORGE =============== -->
