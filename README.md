@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0F172A,65:312E81,100:0891B2&height=260&section=header&text=THE%20DATA%20FORGE&fontSize=55&fontColor=22D3EE&fontAlignY=38&animation=fadeIn&desc=TRANSFORMING%20DATA%20INTO%20INTELLIGENCE&descSize=17&descColor=FFFFFF&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0F172A,65:312E81,100:0891B2&height=260&section=header&text=THE%20Data%20ForgeX&fontSize=55&fontColor=22D3EE&fontAlignY=38&animation=fadeIn&desc=TRANSFORMING%20DATA%20INTO%20INTELLIGENCE&descSize=17&descColor=FFFFFF&descAlignY=60"/>
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 </div>
 
-### ✨ WHO AM I?
+### ✨ WHO AM I ?
 
 - 🎓 Computer Science Engineering Student.
 - 📊 Exploring Data Science and Data Analytics.
@@ -218,7 +218,7 @@ An end-to-end Data Analytics and Machine Learning project focused on analyzing a
 
 ### LEARN • CREATE • INNOVATE
 
-<sub>THANKS FOR VISITING MY PROFILE ✨</sub>
+<sub> THANKS FOR VISITING MY PROFILE ✨</sub>
 
 <br/><br/>
 
